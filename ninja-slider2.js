@@ -1,3 +1,4 @@
+
 var nsOptions =
 {
     sliderId: "ninja-slider2",
