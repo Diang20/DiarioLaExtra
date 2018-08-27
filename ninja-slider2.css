@@ -1,10 +1,9 @@
-/* Visit http://www.menucool.com/responsive-slider for instructions */
 
 #ninja-slider2 {
     width:100%;
-    background:#191919;
+    background:#ffffff;
     padding: 30px 0;
-
+opacity: 1;
     margin:0 auto;
     overflow:hidden;
     box-sizing:border-box;
@@ -94,7 +93,7 @@
 
 /* --------- slider image ------- */  
 #ninja-slider2 .ns-img {
-    background-color:rgba(0,0,0,0.3);
+    background-color:rgba(0,0,0,0);
     background-size:contain;/*Note: If transitionType is zoom, it will be overridden to cover.*/
 
     /*decorate border*/
@@ -128,7 +127,7 @@
     box-sizing:border-box;
 }
 #ninja-slider2 li .cap1 {
-    color:rgba(255,255,255,0.5);
+    color:rgba(0,0,0,0.5);
     font:bold 32px arial;
     text-align:center;
 
@@ -289,4 +288,3 @@
         font-size:20px;
     }
 }
-
