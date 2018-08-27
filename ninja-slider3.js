@@ -1,6 +1,6 @@
 var nsOptions =
 {
-    sliderId: "ninja-slider2",
+    sliderId: "ninja-slider3",
     transitionType: "slide",
     autoAdvance: true,
     rewind: false,
