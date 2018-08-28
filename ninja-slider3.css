@@ -127,11 +127,11 @@ opacity: 1;
     box-sizing:border-box;
 }
 #ninja-slider3 li .cap1 {
-    color:rgba(0,0,0,0.5);
+   color:rgba(255,255,255,0.8);
     font:bold 32px arial;
-    text-align:center;
-
-    opacity:0;
+    text-align:center; 	
+   background-color:rgba(139 ,39,37,0.6);
+   opacity:0;
     bottom:40%;
     -webkit-transition:bottom 1.3s, opacity 1s;
     transition:bottom 1.3s, opacity 1s;
