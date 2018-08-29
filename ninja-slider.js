@@ -2,18 +2,18 @@
 var nsOptions =
 {
     sliderId: "ninja-slider",
-    transitionType: "slide",
+    transitionType: "kenburns 1.2",
     autoAdvance: true,
     rewind: false,
     n: false,
-    delay: "default",
+    delay: "4000",
     transitionSpeed: "default",
-    aspectRatio: "9:6", // "?:100%" is for responsive scaling based on window height
+    aspectRatio: "100%", // "?:100%" is for responsive scaling based on window height
     initSliderByCallingInitFunc: false,
     shuffle: false,
     startSlideIndex: 0,
     navigateByTap: true,
-    pauseOnHover: false,
+    pauseOnHover: true,
     keyboardNav: true,
     before: null,
     license: "mylicense"
