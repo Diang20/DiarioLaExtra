@@ -8,7 +8,7 @@ var nsOptions =
     n: false,
     delay: "4000",
     transitionSpeed: "default",
-    aspectRatio: "100%", // "?:100%" is for responsive scaling based on window height
+    aspectRatio: "9:6", // "?:100%" is for responsive scaling based on window height
     initSliderByCallingInitFunc: false,
     shuffle: false,
     startSlideIndex: 0,
